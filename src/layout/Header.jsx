@@ -7,9 +7,7 @@ function Header() {
                 <div className="nav-wrapper">
                     <a href="#" className="brand-logo">Cinema</a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
-                        <li><a href="sass.html">Link</a></li>
-                        <li><a href="badges.html">Link</a></li>
-                        <li><a href="collapsible.html">Link</a></li>
+                        <li><a href="https://github.com/lexxgleboff/appmovies">Repository</a></li>
                     </ul>
                 </div>
            </div>
