@@ -22,7 +22,6 @@ class Search extends React.Component {
         return (
             <div className="row">
                 <div className="input-field">
-                    <i className="material-icons prefix">search</i>
                     <input
                         placeholder="search"
                         type="search"
